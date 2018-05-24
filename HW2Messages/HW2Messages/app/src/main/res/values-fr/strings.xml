@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bonjour/Au Revoir</string>
+    <string name="language">Francais</string>
+    <string name="greeting_button_label">Salutation</string>
+    <string name="greeting_button_press_event_text">Bon jour</string>
+    <string name="goodbye_button_label">Au revoir</string>
+    <string name="goodbye_button_press_event_text">A plus tard</string>
+    <string name="name_textview_label">Prenom</string>
+    <string name="display_textview">Afficher</string>
+    <string name="copy_button_label">Copie</string>
+    <string name="clear_button_label">Clair</string>
+    <string name="image_of_boy_waving">Image de garçon agitant</string>
+    <string name="start_data_activity_label">Démarrer Data Activity</string>
+    <string name="waving_cat">Image de chat agitant</string>
+</resources>

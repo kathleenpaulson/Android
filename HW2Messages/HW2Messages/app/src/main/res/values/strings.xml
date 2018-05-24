@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hello/Goodbye</string>
+    <string name="language">English</string>
+    <string name="greeting_button_label">Greeting</string>
+    <string name="greeting_button_press_event_text">Hello</string>
+    <string name="goodbye_button_label">Goodbye</string>
+    <string name="goodbye_button_press_event_text">See you later</string>
+    <string name="name_textview_label">Name</string>
+    <string name="display_textview">Display</string>
+    <string name="copy_button_label">Copy</string>
+    <string name="clear_button_label">Clear</string>
+    <string name="image_of_boy_waving">Image of boy waving</string>
+    <string name="start_data_activity_label">Start Data Activity</string>
+    <string name="waving_cat">Image of waving cat</string>
+</resources>

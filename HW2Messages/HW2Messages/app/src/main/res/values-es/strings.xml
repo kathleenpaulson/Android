@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hola/Adios</string>
+    <string name="language">Espanol</string>
+    <string name="greeting_button_label">Saludo</string>
+    <string name="greeting_button_press_event_text">Hola</string>
+    <string name="goodbye_button_label">Adios</string>
+    <string name="goodbye_button_press_event_text">Hasta luego</string>
+    <string name="name_textview_label">Nombre</string>
+    <string name="display_textview">Monitor</string>
+    <string name="copy_button_label">Dupdo</string>
+    <string name="clear_button_label">Limpiar</string>
+    <string name="image_of_boy_waving">Imagen de niño saludando</string>
+    <string name="start_data_activity_label">Iniciar Data Activity</string>
+    <string name="waving_cat">Imagen del gato saludando</string>
+</resources>

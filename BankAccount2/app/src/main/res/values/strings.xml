@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bank Accounts</string>
+    <string name="version">v 2.0</string>
+    <string name="developer">Kathleen Paulson</string>
+    <string name="add_account">ADD ACCOUNT</string>
+    <string name="account_name">Account Name</string>
+    <string name="balance">Balance</string>
+    <string name="save">SAVE</string>
+    <string name="balance_text">Balance</string>
+</resources>

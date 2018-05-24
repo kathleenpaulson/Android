@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ESP-Bank Accounts</string>
+    <string name="version">ESP-v 2.0</string>
+    <string name="developer">ESP-Kathleen Paulson</string>
+    <string name="add_account">ESP-ADD ACCOUNT</string>
+    <string name="account_name">ESP-Account Name</string>
+    <string name="save">ESP-SAVE</string>
+    <string name="balance">ESP-Balance</string>
+    <string name="balance_text">ESP-Balance</string>
+</resources>
